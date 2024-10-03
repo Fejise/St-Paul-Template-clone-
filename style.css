@@ -283,12 +283,15 @@ nav button:hover {
 
 .vvv-2 {
     display: flex;
-    justify-content: space-around;
+   justify-content: center;
     padding: 2rem;
     margin: 6rem 3rem;
-    width: 69.5%;
+     /* width: 69.5%; */
 }
 
+.vvv-2 > div {
+    padding-left: 2rem;
+}
 
 
 .ourfth {
